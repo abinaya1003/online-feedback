@@ -1,0 +1,101 @@
+ONLINE FEEDBACK SYSTEM
+Mini Project Documentation
+1. INTRODUCTION
+In today’s digital era, collecting feedback manually is time-consuming and inefficient. An Online Feedback System provides a simple, fast, and reliable way to collect feedback from users through a web interface. This project focuses on designing a user-friendly feedback form using HTML and CSS where users can submit their opinions easily.
+
+2. OBJECTIVE OF THE PROJECT
+The main objectives of this project are:
+To design a simple online feedback form
+To allow users to submit feedback digitally
+To reduce paperwork and manual effort
+To provide a clean and user-friendly interface
+To understand frontend web development using HTML and CSS
+
+3. SCOPE OF THE PROJECT
+This project is frontend-based only
+Feedback is not stored in a database
+Suitable for small institutions, events, or demo purposes
+Can be extended with backend technologies in the future
+
+4. EXISTING SYSTEM
+In the existing system:
+Feedback is collected manually using paper forms
+Data entry is time-consuming
+Chances of data loss and errors are high
+Feedback analysis is difficult
+
+5. PROPOSED SYSTEM
+The proposed Online Feedback System:
+Uses a web-based feedback form
+Allows users to submit feedback easily
+Eliminates paperwork
+Improves efficiency and user experience
+Provides a professional and modern UI
+
+6. SYSTEM REQUIREMENTS
+Hardware Requirements
+Computer or Laptop
+Minimum 2 GB RAM
+Internet Browser
+Software Requirements
+Operating System: Windows / Linux / macOS
+Browser: Chrome / Firefox / Edge
+Technologies Used:
+HTML
+CSS
+
+7. TECHNOLOGIES USED
+HTML (HyperText Markup Language)
+Used to create the structure of the feedback form
+Provides form elements like input, textarea, select, and button
+CSS (Cascading Style Sheets)
+Used to style the web page
+Improves layout, colors, fonts, and responsiveness
+
+8. SYSTEM DESIGN
+Input
+User Name
+Email Address
+Rating
+Feedback Message
+Output
+Feedback submitted successfully (UI-based)
+
+9. MODULE DESCRIPTION
+9.1 User Module
+User can enter name and email
+User can select rating
+User can write feedback
+User can submit the feedback
+
+10. ADVANTAGES OF THE SYSTEM
+Easy to use
+Time-saving
+Paperless system
+User-friendly interface
+Low cost and simple implementation
+
+11. LIMITATIONS OF THE SYSTEM
+No backend or database
+Feedback is not stored permanently
+No admin panel
+No authentication
+
+12. FUTURE ENHANCEMENTS
+Add backend using PHP / Python
+Store feedback in a database
+Admin login system
+Feedback analysis using charts
+Email notifications
+Star-rating system
+
+13. APPLICATIONS
+Educational institutions
+Colleges and schools
+Online events
+Customer feedback
+Product reviews
+
+14. CONCLUSION
+The Online Feedback System is a simple and effective frontend mini project that demonstrates the use of HTML and CSS in web development. It provides an efficient way to collect feedback digitally and serves as a strong foundation for future full-stack development.
+
